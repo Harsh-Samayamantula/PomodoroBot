@@ -9,5 +9,5 @@ Implementation of a Discord bot with Python and the Discord API that uses the Po
 - Includes motivational messages
 
 ## Authors
-Harshith Samayamantula
+Harshith Samayamantula  
 Amisha Singh
